@@ -1,4 +1,3 @@
-package ap3;
 
 import java.util.Scanner;
 
